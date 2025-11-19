@@ -2,7 +2,7 @@
   
   # Tiago Magalhães
 
-  ### Estudante de Ciência da Computação na UECE
+  ### Computer Science Student
   
   <p align="center">
     <a href="https://www.linkedin.com/in/tiago-magalh%C3%A3es-9b8107276/">
@@ -16,18 +16,18 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### About Me
 
-Sou graduando em **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**. Tenho interesse nas áreas de Engenharia de Software e Machine Learning, atualmente estou estudando Engenharia de Dados e DevOps.
+Sou graduando em **Ciência da Computação** na **Universidade Estadual do Ceará (UECE)**. Tenho interesse nas áreas de Engenharia de Software e Machine Learning, atualmente estou estudando Kubernetes e ETL.
 
-- 🔭 Atualmente estou focado em **Engenharia de Dados** e cultura **DevOps**.
-- 🌱 Estudando ferramentas de containerização, pipelines de CI/CD e arquitetura de dados.
-- 💡 Meus principais interesses são **Engenharia de Software** e **Machine Learning**.
-- 🎓 Buscando aplicar conhecimentos acadêmicos em problemas do mundo real.
+- Atualmente estou focado em **Engenharia de Dados** e cultura **DevOps**.
+- Estudando ferramentas de containerização e arquitetura de dados.
+- Meus principais interesses são **Engenharia de Software** e **Machine Learning**.
+- Buscando aplicar conhecimentos acadêmicos em problemas do mundo real.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+### Tech Stack
 
 Aqui estão algumas das tecnologias que utilizo e estudo:
 
@@ -50,6 +50,7 @@ Aqui estão algumas das tecnologias que utilizo e estudo:
 
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 
@@ -57,7 +58,7 @@ Aqui estão algumas das tecnologias que utilizo e estudo:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
