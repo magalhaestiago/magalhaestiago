@@ -61,7 +61,6 @@ Aqui estão algumas das tecnologias que utilizo e estudo:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=magalhaestiago&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaestiago&layout=compact&theme=dracula"/>
   </a>
 </div>
