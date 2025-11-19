@@ -65,13 +65,3 @@ Aqui estão algumas das tecnologias que utilizo e estudo:
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=magalhaestiago&layout=compact&theme=dracula"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magalhaestiago&theme=dracula" alt="tiago-streak" />
-</div>
-
----
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." – Linus Torvalds</i>
-</p>
